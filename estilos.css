@@ -34,12 +34,6 @@ main {
     padding: 10px 100px;
 }
 
-aside {
-    
-}
-
-
-
 form {
     flex-direction: column;
     align-items: center;
@@ -94,7 +88,7 @@ article {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    width: 80vw;
+    width: 100vw;
     height: 80vh;
 }
 
